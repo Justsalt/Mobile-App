@@ -1,0 +1,109 @@
+.App {
+  padding: 20px;
+  font-family: monospace;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.a-center {
+  align-items: center;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.grow1 {
+  flex: 1;
+}
+.grow2 {
+  flex: 2;
+}
+.grow3 {
+  flex: 3;
+}
+
+.space-btw {
+  justify-content: space-between;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.p50 {
+  padding: 50px;
+}
+
+.pl20 {
+  padding-left: 20px;
+}
+.ml20 {
+  margin-left: 20px;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.p10 {
+  padding: 10px;
+}
+
+.mainBox {
+  width: 500px;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.topButtons div {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.topButtons div:hover {
+  background-color: #e0e0e0;
+}
+
+.selected {
+  background-color: #e0e0e0;
+}
+
+.bottomButtons div {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.bottomButtons div:hover {
+  background-color: #cccccc;
+}
+
+.inp {
+  padding: 10px;
+}
+
+.note {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.post {
+  width: 400px;
+}
+
+.post img {
+  width: 400px;
+}
